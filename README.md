@@ -1,6 +1,7 @@
+[![img_contact](./img/Github-presentation.png)](https://www.linkedin.com/in/alexandre-jouany/)
+
 # Who am I ?
 
-​
 Hi ! My name is Alexandre, I live in Hyères in the south of France, under the palm trees 🌴 listening to the sweet song of the cicadas 🎵 . Sea 🌊 , dev 💻  and sun ☀️
 
 I'm starting to use github to show my work.   
